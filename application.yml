@@ -1,0 +1,10 @@
+---
+spring:
+  cloud:
+    consul:
+      host: 127.0.0.1
+      port: 5000
+
+---
+newConfig:
+ data: test new
